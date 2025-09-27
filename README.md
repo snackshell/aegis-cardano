@@ -36,6 +36,18 @@ To demonstrate its power and provide immediate value, we're also building a **fr
 
 ---
 
+## Bot Commands (Planned Features)
+
+Here’s how you’ll chat with the Aegis guardian once it’s live:
+
+| Command | Example | What Aegis Replies |
+|---------|---------|--------------------|
+| **Check a wallet** | `/check_address addr1q8…` | ⚠️ **Caution!** This address was created 3 h ago and has interacted with a known scam contract. |
+| **Scan a link** | `/scan_link https://suspicious-minswap.io` | 🚨 **High Risk!** This site impersonates Minswap. **Do not connect your wallet.** |
+| **Explain a transaction** | *(paste raw cbor hex)* | 📄 **Summary:** This will send **50 ADA** to an unknown wallet and **give a smart-contract permission to spend ALL your SpaceBudz NFTs.** |
+
+---
+
 ## How Aegis Works
 
 ```mermaid
@@ -50,61 +62,32 @@ graph TD
 
 ---
 
-Bot Commands (Planned Features)
+## Project Vision
 
-Here's a preview of how you'll interact with the Aegis guardian bot once it's live:
-
-Check a Wallet Address:
-
-```plaintext
-/check_address addr1q8...
-```
-
-> Aegis Reply: ⚠️ Caution! This address was created 3 hours ago and has interacted with a known scam contract.
-
-Scan a Link:
-
-```plaintext
-/scan_link https://suspicious-minswap.io
-```
-
-> Aegis Reply: 🚨 High Risk! This website appears to be a phishing site impersonating Minswap. Do not connect your wallet.
-
-Explain a Transaction:
-(User pastes a raw transaction hex)  
-
-> Aegis Reply: In simple terms, this transaction will: Send 50 ADA to an unknown wallet and give a smart contract permission to spend ALL of your SpaceBudz NFTs.
+Our vision is to build a **foundational trust layer for Cardano**. By providing developers with a powerful, open-source security toolkit, we can collectively make the entire ecosystem safer, encouraging new users to join with confidence and empowering developers to build more secure applications.
 
 ---
 
-Project Vision
+## Roadmap (6 Months)
 
-Our vision is to build a foundational trust layer for Cardano. By providing developers with a powerful, open-source security toolkit, we can collectively make the entire ecosystem safer, encouraging new users to join with confidence and empowering developers to build more secure applications.
+- **Phase 1 (Months 1–3):**
+  - [x] Set up public GitHub repository with MIT License.  
+  - [ ] Develop core bot framework for Telegram and Discord.  
+  - [ ] Integrate with Cardano blockchain APIs (Blockfrost/Koios).  
+  - [ ] Launch initial features: Address Reputation & Asset Authenticity.
 
----
-
-Roadmap (6 Months)
-
-- Phase 1 (Months 1–3):
-  - Set up public GitHub repository with MIT License.  
-  - Develop core bot framework for Telegram and Discord.  
-  - Integrate with Cardano blockchain APIs (Blockfrost/Koios).  
-  - Launch initial features: Address Reputation & Asset Authenticity.
-
-- Phase 2 (Months 4–6):
-  - Integrate AI model for the Link Scanner feature.  
-  - Develop and test the Plain-Language Transaction Explainer.  
-  - Publish comprehensive API documentation for developers.  
-  - Launch public beta and gather community feedback.
+- **Phase 2 (Months 4–6):**
+  - [ ] Integrate AI model for the Link Scanner feature.  
+  - [ ] Develop and test the Plain-Language Transaction Explainer.  
+  - [ ] Publish comprehensive API documentation for developers.  
+  - [ ] Launch public beta and gather community feedback.
 
 ---
 
-Get Involved
+## Get Involved
 
-This project is for the community, by the community. If you believe in a safer Cardano, we ask for your vote in Project Catalyst Fund14. Development is now underway thanks to the support of the community.
+This project is **for the community, by the community**. If you believe in a safer Cardano, we ask for your vote in **Project Catalyst Fund14**. Development is now underway thanks to the support of the community.
 
-- Follow our Progress: Star and watch this repository for updates.  
-- Contribute: We welcome contributions! Please check the open issues or submit a pull request.  
-- Vote: Your vote in Fund14 helps ensure the continued development and success of this project.
-
-```
+- **Follow our Progress:** Star and watch this repository for updates.  
+- **Contribute:** We welcome contributions! Please check the open issues or submit a pull request.  
+- **Vote:** Your vote in **Fund14** helps ensure the continued development and success of this project.
