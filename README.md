@@ -1,4 +1,3 @@
-```markdown
 # Aegis: Your AI Security Guardian for Cardano
 
 **Project Status:** Community-Funded in Project Catalyst Fund14 | In Active Development
@@ -48,7 +47,6 @@ graph TD
     C -- Returns Simple Result --> B;
     B -- Sends Clear Warning/Explanation --> A;
 ```
-
 ---
 
 Bot Commands (Planned Features)
