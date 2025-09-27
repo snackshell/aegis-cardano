@@ -5,15 +5,15 @@
 Aegis is an open-source project building an AI-powered security assistant to help users and developers identify scams, understand transactions, and protect their assets on the Cardano blockchain. Our goal is to make the Cardano ecosystem the safest place to operate in Web3.
 
 **Official Website:** [aegis-cardano.vercel.app](https://aegis-cardano.vercel.app)  
-**Catalyst Proposal:** [View Our Proposal](https://example.com)
+**Catalyst Proposal:** [View Our Proposal](https://bit.ly/aegiscardano)
 
 ---
 
 ## Connect With Us
 
-- **X (Twitter):** [@aegiscardano](https://twitter.com/aegiscardano)
+- **X (Twitter):** [@aegiscardano](https://x.com/aegiscardano)
 - **Telegram:** [Aegis Cardano Community](https://t.me/aegiscardano)
-- **YouTube:** [Bana Codes Channel](https://youtube.com/@Banacodes)
+- **YouTube:** [Aegis Cardano Channel](https://youtube.com/aegiscardano) *(Replace with your actual URL)*
 
 ---
 
@@ -32,7 +32,7 @@ To demonstrate its power and provide immediate value, we're also building a **fr
 - **AI Link Scanner:** Analyzes websites for signs of phishing or wallet drainers.
 - **Address Reputation Check:** Scans wallet addresses for suspicious on-chain activity.
 - **Asset Authenticity Verification:** Confirms if an NFT or token is genuine by checking its Policy ID.
-- **Plain-Language Transaction Explainer:** Translates complex transaction data into a simple, human-readable summary before you sign.
+- **Plain-Language Transaction Explainer:** Translates complex transaction data into a simple, human-readable summary *before* you sign.
 
 ---
 
@@ -47,6 +47,7 @@ graph TD
     C -- Returns Simple Result --> B;
     B -- Sends Clear Warning/Explanation --> A;
 ```
+
 ---
 
 Bot Commands (Planned Features)
@@ -84,23 +85,17 @@ Our vision is to build a foundational trust layer for Cardano. By providing deve
 
 Roadmap (6 Months)
 
-Phase 1 (Months 1–3):
-- Set up public GitHub repository with MIT License.
-- Develop core bot framework for Telegram and Discord.
-- Integrate with Cardano blockchain APIs (Blockfrost/Koios).
-- Launch initial features: Address Reputation & Asset Authenticity.
+- Phase 1 (Months 1–3):
+  - Set up public GitHub repository with MIT License.  
+  - Develop core bot framework for Telegram and Discord.  
+  - Integrate with Cardano blockchain APIs (Blockfrost/Koios).  
+  - Launch initial features: Address Reputation & Asset Authenticity.
 
-Phase 2 (Months 4–6):
-- Integrate AI model for the Link Scanner feature.
-- Develop and test the Plain-Language Transaction Explainer.
-- Publish comprehensive API documentation for developers.
-- Launch public beta and gather community feedback.
-
----
-
-Development Philosophy
-
-Aegis is built using a modern, AI-augmented development philosophy. By pairing an experienced developer's intuition with advanced AI coding agents, we can achieve rapid, secure, and robust development. This human-AI collaborative approach allows us to focus on high-level security architecture while ensuring the code quality remains exceptionally high.
+- Phase 2 (Months 4–6):
+  - Integrate AI model for the Link Scanner feature.  
+  - Develop and test the Plain-Language Transaction Explainer.  
+  - Publish comprehensive API documentation for developers.  
+  - Launch public beta and gather community feedback.
 
 ---
 
@@ -108,8 +103,8 @@ Get Involved
 
 This project is for the community, by the community. If you believe in a safer Cardano, we ask for your vote in Project Catalyst Fund14. Development is now underway thanks to the support of the community.
 
-- Follow our Progress: Star and watch this repository for updates.
-- Contribute: We welcome contributions! Please check the open issues or submit a pull request.
+- Follow our Progress: Star and watch this repository for updates.  
+- Contribute: We welcome contributions! Please check the open issues or submit a pull request.  
 - Vote: Your vote in Fund14 helps ensure the continued development and success of this project.
 
 ```
