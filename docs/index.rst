@@ -88,7 +88,7 @@ Community & Support
 License
 -------
 
-Aegis Cardano Security Guardian is licensed under the MIT License. See the :doc:`LICENSE` file for details.
+Aegis Cardano Security Guardian is licensed under the MIT License. See the `LICENSE` file for details.
 
 .. note::
    This documentation is for version 0.1.0. For other versions, please check the documentation on `Read the Docs <https://aegis-cardano.readthedocs.io/>`_.
