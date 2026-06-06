@@ -1,7 +1,5 @@
 # Aegis: Your AI Security Guardian for Cardano
 
-**Project Status:** Community-Funded in Project Catalyst Fund14 | In Active Development
-
 Aegis is an open-source project building an AI-powered security assistant to help users and developers identify scams, understand transactions, and protect their assets on the Cardano blockchain. Our goal is to make the Cardano ecosystem the safest place to operate in Web3.
 
 **Official Website:** [aegis-cardano.vercel.app](https://aegis-cardano.vercel.app)  
